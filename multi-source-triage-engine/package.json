@@ -1,0 +1,21 @@
+{
+  "name": "multi-source-triage-engine",
+  "version": "1.0.0",
+  "description": "Primary-fallback-heuristics decision routing pattern for address validation and similar triage workflows",
+  "main": "src/triage-engine.js",
+  "scripts": {
+    "start": "node src/example-usage.js"
+  },
+  "keywords": [
+    "triage",
+    "validation",
+    "decision-routing",
+    "fallback-pattern"
+  ],
+  "author": "Tobenna Winston Onyiriuba",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
